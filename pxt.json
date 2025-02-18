@@ -1,39 +1,24 @@
 {
-    "name": "Minecraft-EE-MakeCode",
+    "name": "daring-defense-md-ar",
     "description": "",
     "dependencies": {
         "core": "*",
         "builder": "*"
     },
     "files": [
-      "tutorials/no_coding.md",
-      "tutorials/seymour-island/blank.md",
-      "tutorials/seymour-island/task0-breaking.md",
-      "tutorials/seymour-island/task0-captain.md",
-      "tutorials/seymour-island/task0-end.md",
-      "tutorials/seymour-island/task0-fountain.md",
-      "tutorials/seymour-island/task0-place.md",
-      "tutorials/seymour-island/task0-start.md",
-      "tutorials/seymour-island/task1.md",
-      "tutorials/seymour-island/task2.md",
-      "tutorials/seymour-island/task3.md",
-      "tutorials/seymour-island/task4.md",
-      "tutorials/seymour-island/task5.md",
-      "tutorials/seymour-island/task6.md",
-      "tutorials/seymour-island/task7-coder.md",
-      "tutorials/seymour-island/task7-helper.md",
-      "tutorials/seymour-island/task8-coder.md",
-      "tutorials/seymour-island/task8-helper.md",
-      "tutorials/seymour-island/task9.md",
-      "tutorials/cyber-kingdom/firewall/firewall_1.md",
-      "tutorials/cyber-kingdom/firewall/firewall_2.md",
-      "tutorials/cyber-kingdom/firewall/firewall_3.md",
-      "tutorials/cyber-kingdom/firewall/firewall_4.md",
-      "tutorials/cyber-kingdom/firewall/firewall_5.md",
-      "tutorials/cyber-kingdom/firewall/firewall_6.md"
+        "tutorials/no_coding.md",
+        "tutorials/cyber-kingdom/firewall/firewall_1.md",
+        "tutorials/cyber-kingdom/firewall/firewall_2.md",
+        "tutorials/cyber-kingdom/firewall/firewall_3.md",
+        "tutorials/cyber-kingdom/firewall/firewall_4.md",
+        "tutorials/cyber-kingdom/firewall/firewall_5.md",
+        "tutorials/cyber-kingdom/firewall/firewall_6.md"
     ],
-    "testFiles": [
-    ],
+    "testFiles": [],
+    "targetVersions": {
+        "target": "2.0.30",
+        "targetId": "minecraft"
+    },
     "supportedTargets": [
         "minecraft"
     ]
