@@ -7,13 +7,13 @@
         "builder": "*"
     },
     "files": [
-        "tutorials/no_coding.md",
-        "tutorials/cyber-kingdom/firewall/firewall_1.md",
-        "tutorials/cyber-kingdom/firewall/firewall_2.md",
-        "tutorials/cyber-kingdom/firewall/firewall_3.md",
-        "tutorials/cyber-kingdom/firewall/firewall_4.md",
-        "tutorials/cyber-kingdom/firewall/firewall_5.md",
-        "tutorials/cyber-kingdom/firewall/firewall_6.md",
+        "no_coding.md",
+        "firewall_1.md",
+        "firewall_2.md",
+        "firewall_3.md",
+        "firewall_4.md",
+        "firewall_5.md",
+        "firewall_6.md",
         "tutorial-info-cache.json"
     ],
     "testFiles": [],

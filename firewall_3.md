@@ -36,5 +36,5 @@ Are those villagers wearing hats?
 
 
 ```package
-causeway-digital-makecode-extension=github:causewaydigital/pxt-causeway-digital-extension#cyber-kingdom
+cyber-expert-daring-defense=github:ReWrite-Media/daring-defense-ts-ar/
 ```

@@ -48,5 +48,5 @@ Pay special attention to the soldiers shields, could we filter by those? Be care
 
 
 ```package
-causeway-digital-makecode-extension=github:causewaydigital/pxt-causeway-digital-extension#cyber-kingdom
+cyber-expert-daring-defense=github:ReWrite-Media/daring-defense-ts-ar/
 ```

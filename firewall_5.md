@@ -37,5 +37,5 @@ cyber.addDenyFirewallRule(cyber.ruleAnd(cyber.requireHat(WearingHat.NoHat), cybe
 What do spies always wear when they want to conceal their identity?
 
 ```package
-causeway-digital-makecode-extension=github:causewaydigital/pxt-causeway-digital-extension#cyber-kingdom
+cyber-expert-daring-defense=github:ReWrite-Media/daring-defense-ts-ar/
 ```
