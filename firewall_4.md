@@ -1,7 +1,7 @@
 ### @explicitHints 1
 ### @flyoutOnly true
 
-# Combining rules
+# دمج القواعد
 
 ```ghost
 cyber.setupFirewall(function () {
@@ -14,15 +14,15 @@ cyber.setupFirewall(function () {
 
 ```
 
-## More villagers @showdialog
-It looks like there's a large group of villagers on their way.   
-Are they all going to be allowed through the firewall? 
+## المزيد من القرويين @showdialog
+يبدو أن هناك مجموعة كبيرة من القرويين في طريقهم إلى القلعة. 
+هل سيسمح لهم جميعا  بالمرور عبر  جدار الحماية؟
 ![Villagers](https://raw.githubusercontent.com/CausewayDigital/Minecraft-EE-MakeCode/main/tutorials/cyber-kingdom/firewall/images/level_4.jpg)
 
 
-## More villagers
-You may need to make rules using an **and** statement. This means you can combine 2 rules together.   
-Watch out, some of these villagers don't have hats, but they are carrying items like a pickaxe or map. This means we can't just block anything not wearing a hat.  
+## المزيد من القرويين
+قد تحتاج لوضع قواعد باستخدام الحرف **و** مما يعني أنه يمكنك دمج قاعدتين معا. 
+انتبه، فبعض هؤلاء القرويين لا يرتدون قبعات، لكنهم يحملون أشياء مثل فأس أو خريطة. وهذا يعني أنه لا يمكننا حظر أي شخص لا يرتدي قبعة فقط.
 
 
 ```template
@@ -34,7 +34,7 @@ cyber.addDenyFirewallRule(cyber.requireHat(WearingHat.NoHat))
 ```
 
 ### ~ tutorialhint
-The anomaly doesn't seem to be wearing a hat and doesn't seem to be holding anything.
+يبدو أن الشخص المشبوه لا يرتدي قبعة ولا يحمل أي شيء.
 
 ```package
 cyber-expert-daring-defense=github:ReWrite-Media/daring-defense-ts-ar/

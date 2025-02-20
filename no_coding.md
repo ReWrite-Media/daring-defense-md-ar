@@ -6,15 +6,15 @@
 ### @hideIteration true
 ### @explicitHints 1
 
-# No Code Required
+# لا يوجد رمز مطلوب
 
-## Introduction step @unplugged
+## خطوة مقدمة @unplugged
 
-# Coding is not required to complete your current activity.
+# البرمجة غير مطلوبة لإكمال نشاطك الحالي.
 
 ## Step 1
 
-Please close this window to return to the world.
+يرجى إغلاق هذه النافذة للعودة إلى العالم.
 
 
 ```ghost

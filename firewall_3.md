@@ -13,15 +13,15 @@ cyber.setupFirewall(function () {
 
 ```
 
-## Anomaly 2 @showdialog
-It's another anomaly!   
+## الكائنات المشبوهة 2 @showdialog
+إنه كائن مشبوه أخر!   
 ![Anomaly](https://raw.githubusercontent.com/CausewayDigital/Minecraft-EE-MakeCode/main/tutorials/cyber-kingdom/firewall/images/level_3.jpg)
 
 
-## Stop the anomaly
+## أوقف المشبوهين
 This is a different anomaly! Add another rule to stop this particular anomaly. 
 Can you see anything that might help us distinguish between a villager and the anomaly?   
-Remember, you can press the < (back) button to check the lookout view again.
+Remember, you can press the < (خلف) button to check the lookout view again.
 
 
 ```template
@@ -32,7 +32,7 @@ cyber.addDenyFirewallRule(cyber.requireLegs(Legs.OverFourLegs))
 ```
 
 ### ~ tutorialhint
-Are those villagers wearing hats?
+هل يرتدي هؤلاء القرويون قبعات؟
 
 
 ```package

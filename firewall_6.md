@@ -1,7 +1,7 @@
 ### @explicitHints 1
 ### @flyoutOnly true
 
-# Soldiers
+# الجنود
 
 ```ghost
 cyber.setupFirewall(function () {
@@ -22,14 +22,13 @@ cyber.setupFirewall(function () {
 
 ```
 
-## Soldiers @showdialog
-The rival kingdom it seems didn't take kindly to us blocking access to their spies and have sent soldiers!
+## الجنود @showdialog
+يبدو أن المملكة المنافسة غير راضية عن حظرنا دخول جواسيسها إلى مملكننا، وقد أقدمت على إرسال جنود!
 ![Soldiers](https://raw.githubusercontent.com/CausewayDigital/Minecraft-EE-MakeCode/main/tutorials/cyber-kingdom/firewall/images/level_6.jpg)
 
 
-## Soldiers!
-Quickly, create some rules to block these solders, we can't have them getting through the castle walls!   
-We could use their royal crest on the shields to help differentiate them. Our soldiers have a **golden** and **purple** crest, they must be allowed back in.   
+## جنود!
+بسرعة، قم بإنشاء بعض القواعد لمنع هؤلاء الجنود من المرور عبر أسوار القلعة! يمكننا تمييزهم من خلال شعارهم الملكي على الدروع . جنودنا يحملون شعارا **ذهبيا** و**بنفسجيا**، ويجب السماح لهم بالدخول.   
 
 
 ```template
@@ -42,7 +41,7 @@ cyber.addDenyFirewallRule(cyber.requireEyewear(WearingEyeware.WearingEyeware))
 ```
 
 ### ~ tutorialhint
-Pay special attention to the soldiers shields, could we filter by those? Be careful not to block our soldiers though!
+أعط اهتماما خاصا لدروع الجنود، هل يمكننا تصفية الجنود حسب تلك الدروع؟ لكن تأكد من عدم حظر جنودنا!
 ![Soldiers Shields](https://raw.githubusercontent.com/CausewayDigital/Minecraft-EE-MakeCode/main/tutorials/cyber-kingdom/firewall/images/level_6_shields.jpg)
 
 

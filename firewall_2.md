@@ -13,19 +13,18 @@ cyber.setupFirewall(function () {
 
 ```
 
-## Anomaly 1 @showdialog
-It's some anomalies! This anomaly seems to have a lot of legs and is trying to enter the castle...
-We need to create a rule to stop it coming in the castle!   
-![Anomaly](https://raw.githubusercontent.com/CausewayDigital/Minecraft-EE-MakeCode/main/tutorials/cyber-kingdom/firewall/images/level_2.jpg)
+## الكائنات المشبوهة 1 @showdialog
+هناك بعض الكائنات المشبوهة! يبدو أن هذا الكائن يمتلك العديد من الأرجل ويحاول اقتحام القلعة...
+ يجب أن نضع قاعدة لمنعه من الدخول إليها.![Anomaly](https://raw.githubusercontent.com/CausewayDigital/Minecraft-EE-MakeCode/main/tutorials/cyber-kingdom/firewall/images/level_2.jpg)
 
 
-## Deny rule
-We need to come up with a rule to block access to the anomaly, but still allow villagers in.   
-Add a ``||cyber:Add deny firewall rule||`` block to your rules. It allows you to tell the guards to deny access to anything that satisfies the rule.  
+## قاعدة الرفض
+يجب علينا وضع قاعدة تمنع وصول الكائنات المشبوهة إلى القلعة، مع السماح للقرويين بالدخول. 
+قم بإضافة البلوك  ``||cyber:إضافة قاعدة رفض  إلى جدار الحماية||`` إلى قواعدك، حيث تتيح لك هذه القاعدة إبلاغ الحراس برفض دخول أي شيء تنطبق عليه.
 
-### Distinguishing Features
-Can you see anything that might help us distinguish between a villager and this anomaly?   
-Press the < (back) button to check the lookout view for what is coming if you aren't sure.
+### السمات المميزة
+هل تلاحظ أي شيء قد يساعدنا في التمييز بين القروي وهذه الكائنات المشبوهة؟   
+اضغط على الزر < (خلف) لتحقق من المظهر لمتابعة ما هو قادم إذا كنت غير متأكد من ماهيته.
 ```template
 cyber.setupFirewall(function () {
 cyber.allowAll()

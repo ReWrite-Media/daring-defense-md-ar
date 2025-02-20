@@ -1,19 +1,16 @@
 ### @explicitHints 1
 ### @flyoutOnly true
 
-# Allowing everything
+# السماح بكل شيء
 
-## What's a Firewall? @unplugged
-A Firewall is a filtering system for traffic entering (and sometimes exiting) a network or location.    
-It is based on created allow or deny rules to allow or deny different types of traffic.   
-In this task, you will be building up a series of rules to allow or deny different characters into the castle.
+## ما هو جدار الحماية؟ @unplugged
+جدار الحماية هو نظام تصفية يستخدم للتحكم في حركة المرور الداخلة والخارجة من شبكة أو موقع معين.  يعتمد هذا النظام على مجموعة من القواعد المحددة التي تحدد ما إذا كان يجب السماح أو رفض حركة معينة، مما يتيح أو يمنع أنواعا مختلفة من حركة المرور، في هذه المهمة، ستقوم بوضع مجموعة من القواعد لتحديد ما إذا كان يُسمح لشخصيات مختلفة بدخول القلعة أو لا.
 
-## Villagers @unplugged
-It looks like there are a group of villagers on their way. We should let them into the castle. Let's start by creating a firewall that allows all.   
+## القرويين @unplugged
+يبدو أن هناك مجموعة من القرويين (سكان القرية) في طريقهم إلى القلعة. يجب أن نسمح لهم بالدخول. لنبدأ بإنشاء جدار حماية يسمح للجميع بالدخول.
 ![Villages](https://raw.githubusercontent.com/CausewayDigital/Minecraft-EE-MakeCode/main/tutorials/cyber-kingdom/firewall/images/level_1.jpg)
-## Step 1
-It looks like there are a group of villagers on their way. Let's start by creating a firewall that allows all.   
-When you are ready to try the firewall, press the play button.
+## الخطوة الأولى
+يبدو أن هناك مجموعة من القرويين  في طريقهم إلى القلعة. لنبدأ بإنشاء جدار حماية يسمح للجميع بالدخول. عندما تكون مستعدا لتجربة جدار الحماية، اضغط على زر التشغيل.
 ```template
 cyber.setupFirewall(function () {
 })
