@@ -19,9 +19,9 @@ cyber.setupFirewall(function () {
 
 
 ## أوقف المشبوهين
-This is a different anomaly! Add another rule to stop this particular anomaly. 
-Can you see anything that might help us distinguish between a villager and the anomaly?   
-Remember, you can press the < (خلف) button to check the lookout view again.
+هذا نوع أخر من الكائنات المشبوهة! أضف قاعدة أخرى لمنع هذا النوع من المشبوهين بالتحديد.
+هل تلاحظ أي شيء قد يساعدنا في التمييز بين القروي وهذه الكائنات المشبوهة؟   
+تذكر، يمكنك الضغط على الزر < (خلف) لتحقق من المظهر ومتابعة ما هو قادم إذا كنت غير متأكد من ماهيته.
 
 
 ```template
