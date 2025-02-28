@@ -15,11 +15,11 @@ cyber.setupFirewall(function () {
 
 ```
 
-## Spies @showdialog
+## الجواسيس والأعداء @showdialog
 احذر، فقد عُرف عن المملكة المنافسة لمملكنمت سعيها لإرسال جواسيس يتسللون عبر أبوابنا.![Spies](https://raw.githubusercontent.com/CausewayDigital/Minecraft-EE-MakeCode/main/tutorials/cyber-kingdom/firewall/images/level_5.jpg)
 
 
-## Spies!
+## الجواسيس والأعداء!
 تأكد من عدم السماح للجواسيس بالدخول، فهم يحاولون التنكر حتى لا يتم التعرف عليهم.
 أتساءل كيف يمكنن أن نمييز بينهم وبين القرويين العاديين؟
 

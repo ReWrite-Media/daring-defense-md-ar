@@ -13,12 +13,12 @@ cyber.setupFirewall(function () {
 
 ```
 
-## Anomaly 2 @showdialog
+## الكائنات المشبوهة 2 @showdialog
 إنه كائن مشبوه أخر!   
 ![Anomaly](https://raw.githubusercontent.com/CausewayDigital/Minecraft-EE-MakeCode/main/tutorials/cyber-kingdom/firewall/images/level_3.jpg)
 
 
-## Stop the anomaly
+## أوقف المشبوهين
 هذا نوع أخر من الكائنات المشبوهة! أضف قاعدة أخرى لمنع هذا النوع من المشبوهين بالتحديد.
 هل تلاحظ أي شيء قد يساعدنا في التمييز بين القروي وهذه الكائنات المشبوهة؟   
 تذكر، يمكنك الضغط على الزر < (خلف) لتحقق من المظهر ومتابعة ما هو قادم إذا كنت غير متأكد من ماهيته.

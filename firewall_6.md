@@ -22,12 +22,12 @@ cyber.setupFirewall(function () {
 
 ```
 
-## Soldiers @showdialog
+## الجنود @showdialog
 يبدو أن المملكة المنافسة غير راضية عن حظرنا دخول جواسيسها إلى مملكننا، وقد أقدمت على إرسال جنود!
 ![Soldiers](https://raw.githubusercontent.com/CausewayDigital/Minecraft-EE-MakeCode/main/tutorials/cyber-kingdom/firewall/images/level_6.jpg)
 
 
-## Soldiers!
+## جنود!
 بسرعة، قم بإنشاء بعض القواعد لمنع هؤلاء الجنود من المرور عبر أسوار القلعة! يمكننا تمييزهم من خلال شعارهم الملكي على الدروع . جنودنا يحملون شعارا **ذهبيا** و**بنفسجيا**، ويجب السماح لهم بالدخول.   
 
 
