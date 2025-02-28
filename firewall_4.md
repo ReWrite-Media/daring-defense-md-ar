@@ -14,13 +14,13 @@ cyber.setupFirewall(function () {
 
 ```
 
-## المزيد من القرويين @showdialog
+## More villagers @showdialog
 يبدو أن هناك مجموعة كبيرة من القرويين في طريقهم إلى القلعة. 
 هل سيسمح لهم جميعا  بالمرور عبر  جدار الحماية؟
 ![Villagers](https://raw.githubusercontent.com/CausewayDigital/Minecraft-EE-MakeCode/main/tutorials/cyber-kingdom/firewall/images/level_4.jpg)
 
 
-## المزيد من القرويين
+## More villagers
 قد تحتاج لوضع قواعد باستخدام الحرف **و** مما يعني أنه يمكنك دمج قاعدتين معا. 
 انتبه، فبعض هؤلاء القرويين لا يرتدون قبعات، لكنهم يحملون أشياء مثل فأس أو خريطة. وهذا يعني أنه لا يمكننا حظر أي شخص لا يرتدي قبعة فقط.
 
