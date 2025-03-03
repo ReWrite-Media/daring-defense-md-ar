@@ -1,7 +1,7 @@
 ### @explicitHints 1
 ### @flyoutOnly true
 
-# Anomaly 2
+#  الكائنات المشبوهة 2
 
 ```ghost
 cyber.setupFirewall(function () {
